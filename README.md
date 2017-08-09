@@ -13,4 +13,4 @@ Votes are based on players’ record, ability, character, sportsmanship and cont
 The Hall of Fame is located in Cooperstown, New York.
 
 
-! [2017 MLB Hall of Fame Voting](HOF_chart_chartbuilder.png?raw=true "2017 MLB Hall of Fame Voting")
+![hof chart](https://user-images.githubusercontent.com/29659809/29140636-32058d84-7d19-11e7-8bb9-806b7ce9afa7.png)
